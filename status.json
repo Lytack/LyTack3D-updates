@@ -1,0 +1,7 @@
+{
+  "maintenance": false,
+  "maxOfflineHours": 72,
+  "minVersion": "1.0.27",
+  "updateMessage": "Neue Version verfuegbar. Bitte Update installieren. / New version available. Please install the update.",
+  "updateUrl": "https://github.com/Lytack/LyTack3D-updates/releases/latest/download/LyTack-UPLOAD.exe"
+}
